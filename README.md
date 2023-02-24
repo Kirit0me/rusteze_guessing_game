@@ -1,2 +1,2 @@
-# warframe
-I talk about warframe
+# Rust
+learning
